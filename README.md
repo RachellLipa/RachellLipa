@@ -8,4 +8,3 @@
 <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=RachellLipa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>  
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
